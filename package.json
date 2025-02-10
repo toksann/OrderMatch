@@ -1,0 +1,25 @@
+{
+  "name": "order-match",
+  "version": "0.1.0",
+  "description": "This is an app that provides real-time matching.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5",
+    "cors": "^2.8.5"
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "repository": {
+    "url": "https://d1529a88-8f23-4c60-bfcd-7f7756c5630a@api.glitch.com/git/order-match"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch"
+  ]
+}
